@@ -1,0 +1,3 @@
+cpus_per_task,ntasks,mem,time,partition
+2,4,,,
+A tarefa levou 0.734969 segundos para ser executada

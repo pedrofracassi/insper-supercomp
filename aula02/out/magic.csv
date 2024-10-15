@@ -1,0 +1,7 @@
+slurmstepd-compute00: error: *** JOB 1359 ON compute00 CANCELLED AT 2024-08-13T10:55:12 ***
+[compute00:00000] *** An error occurred in Socket closed
+[compute00:00000] *** reported by process [92143617,0]
+[compute00:00000] *** on a NULL communicator
+[compute00:00000] *** Unknown error
+[compute00:00000] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[compute00:00000] ***    and MPI will try to terminate your MPI job as well)

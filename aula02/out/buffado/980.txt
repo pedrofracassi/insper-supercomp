@@ -1,0 +1,3 @@
+cpus_per_task,ntasks
+2,4
+A tarefa levou 0.774084 segundos para ser executada
